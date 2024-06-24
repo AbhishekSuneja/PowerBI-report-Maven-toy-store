@@ -13,4 +13,8 @@ At Maven Toy Store, we’ve analyzed order volumes, revenue insights, and profit
 - **8- Sales and Profitability Trends:** Airport excels in Electronics (84.3% profit margin), while Downtown leads in Games (50.7%).
 
  Maven Toy Store thrives on diversity in products and strategic store placements. Our focus on top-selling items like Lego Bricks and high-margin categories such as Electronics drives our success. By understanding consumer preferences and optimizing store locations, we’re not just selling toys—we’re shaping trends and maximizing profitability at every turn.
-![Toy_store_pbi_4](https://github.com/AbhishekSuneja/PowerBI-report-Maven-toy-store/assets/136248049/a3cdb5ed-8c19-4afc-b539-5ce98951fe9e)
+![Toy_store_pbi_1](https://github.com/AbhishekSuneja/PowerBI-report-Maven-toy-store/assets/136248049/30adb46b-c392-4e58-9ae9-f22634e1ff97)
+![Toy_store_Pbi_2](https://github.com/AbhishekSuneja/PowerBI-report-Maven-toy-store/assets/136248049/6ff2a7b3-c276-4e9d-ae4c-53155e1b8061)
+![Toy_store_pbi_3](https://github.com/AbhishekSuneja/PowerBI-report-Maven-toy-store/assets/136248049/0380a79f-2357-4b77-b144-d31bd68a37fa)
+![Toy_store_pbi_4](https://github.com/AbhishekSuneja/PowerBI-report-Maven-toy-store/assets/136248049/63df819c-a561-4968-83d8-a824e69e2106)
+
